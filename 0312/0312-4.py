@@ -1,1 +1,0 @@
-print("FUCK ÁW§Aªº·L³n")
