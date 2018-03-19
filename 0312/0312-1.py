@@ -1,1 +1,1 @@
-print("FUCK ÁW§Aªº·L³n")
+print("Hello World!")

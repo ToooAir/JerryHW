@@ -1,1 +1,2 @@
-print("FUCK ÁW§Aªº·L³n")
+A = "Hello Python!"
+print(A*3)
